@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on open Source Project and to work as freelancer**
 
-- 💬 Ask me about **java,spring,js,ts,abgular...**
+- 💬 Ask me about **java,spring,js,ts,angular...**
 
 - 📫 How to reach me **wael.abidi@esprit.tn**
 
