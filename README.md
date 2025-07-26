@@ -11,13 +11,13 @@
 
 - 💬 Ask me about **Java, Spring Boot, Angular, TypeScript, AWS, and software engineering best practices**
 
-- 📫 How to reach me: **wael.abidi@esprit.tn**
+- 📫 How to reach me: **abidy.wael@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wael-abidi" target="_blank">
+<a href="https://www.linkedin.com/in/abidiwaelengineer/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="wael-abidi" height="30" width="30" />
 </a>
 </p>
